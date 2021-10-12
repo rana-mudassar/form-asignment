@@ -1,0 +1,40 @@
+body{
+    background-color: rgb(115, 224, 224);
+    text-align: center;
+}
+input[type= text]{
+    width:10%;
+    resize: vertical;
+    border-radius: 3px;
+}
+#main{
+    width: 70%;
+    height: 100%;
+    background-color: white;
+    margin-left: 10%;
+    padding: 15px;
+}
+h2{
+    
+    margin-right: 200px;
+
+}
+#male{
+    margin-right: 240px;
+
+}
+#radio{
+    width: 60%;
+    display:flex;
+
+}
+.rad{
+    width: 50%;
+    text-align: right;
+    flex-direction: row;
+}
+.radio{
+    display: inline-block;
+    justify-content: center;
+    
+}
